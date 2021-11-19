@@ -9,6 +9,7 @@ LightGraphs = "093fc24a-ae57-5d10-9952-331d41423f4d"
 SpatialIndexing = "d4ead438-fe20-5cc5-a293-4fd39a41b74c"
 
 [compat]
+SpatialIndexing = "0.1"
 julia = "1"
 
 [extras]
