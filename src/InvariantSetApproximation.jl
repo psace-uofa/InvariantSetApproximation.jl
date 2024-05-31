@@ -1,7 +1,7 @@
 module InvariantSetApproximation
 
 # imports
-using LightGraphs
+using Graphs
 using SpatialIndexing
 using LazySets
 
