@@ -6,8 +6,10 @@ version = "0.2.0"
 [deps]
 Graphs = "86223c79-3864-5bf0-83f7-82e725a168b6"
 LazySets = "b4f0291d-fe17-52bc-9479-3d1a343d9043"
-Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
 SpatialIndexing = "d4ead438-fe20-5cc5-a293-4fd39a41b74c"
+
+[compact]
+julia = "1.6"
 
 [extras]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
