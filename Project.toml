@@ -1,7 +1,7 @@
 name = "InvariantSetApproximation"
 uuid = "5dd83098-6773-4e1e-8c90-fdd269994001"
 authors = ["decardinb <decardinb@gmail.com> and contributors"]
-version = "0.2.0"
+version = "0.2.1"
 
 [deps]
 Graphs = "86223c79-3864-5bf0-83f7-82e725a168b6"
